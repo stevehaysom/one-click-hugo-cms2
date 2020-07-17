@@ -17,3 +17,14 @@ is valuable for us.
 You can also use the form below for any inquiries about coffee
 availability, monthly subscriptions and scheduling a 1-on-1 session
 with our baristas. Don’t be shy, drop us a line!
+<form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
