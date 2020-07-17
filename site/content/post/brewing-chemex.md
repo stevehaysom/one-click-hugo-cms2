@@ -16,18 +16,6 @@ In 1958, designers at the [Illinois Institute of Technology](https://www.spacefa
 
 The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
 
-<form name="contact" netlify>
-  <p>
-    <label>Yoour Name <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>your Email <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
-
 1. Always buy dedicated Chemex filters.
 2. Use a scale, don’t try to eyeball it.
 3. Never skip preheating the glass.
