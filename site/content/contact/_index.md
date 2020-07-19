@@ -25,6 +25,6 @@ with our baristas. Don’t be shy, drop us a line!
     <label>your Email <input type="email" name="email" /></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button type="submit">Send it</button>
   </p>
 </form>
